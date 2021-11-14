@@ -36,11 +36,11 @@
 
                                <key>bundle-identifier</key>
 
-                               <string>com.intellectdesign.bjbcob</string>
+                               <string>com.adcb.celeswallet</string>
 
                                <key>bundle-version</key>
 
-                               <string>6.3.0.7</string>
+                               <string>1.0</string>
 
                                <key>kind</key>
 
@@ -48,7 +48,7 @@
 
                                <key>title</key>
 
-                               <string>ADCBMIB</string>
+                               <string>Simplylife</string>
 
                        </dict>
 
